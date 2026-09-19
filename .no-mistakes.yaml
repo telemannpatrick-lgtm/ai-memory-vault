@@ -1,0 +1,5 @@
+# no-mistakes gate config for ai-memory-vault.
+# This repo is pure markdown/docs (templates + reference notes) - there is no
+# code to compile, lint, or test. No commands are configured on purpose; the
+# gate still runs review/document/push steps, just no test/lint step.
+commands: {}
